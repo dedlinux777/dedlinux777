@@ -33,9 +33,9 @@
 ---
 
 ## 📊 GitHub Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&theme=tokyonight&hide_border=false)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=yourgithubusername&theme=tokyonight&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedlinux777&layout=compact&theme=tokyonight&hide_border=false)  
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dedlinux777&theme=tokyonight&hide_border=false)  
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourgithubusername&label=Profile%20views&color=0e75b6&style=for-the-badge)  
+![Profile Views](https://komarev.com/ghpvc/?username=dedlinux777&label=Profile%20views&color=0e75b6&style=for-the-badge)  
