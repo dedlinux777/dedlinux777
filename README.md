@@ -4,15 +4,12 @@
 
 - 🌱 I’m currently learning **Web Development, DSA, Cybersecurity and Cloud Computing, , **
 - 💻 I love building **web applications, automation tools and security scripts **
-- 📫 Reach me at **your_email_here**
-- ⚡ Fun fact: **I enjoy exploring both low-level systems & modern web tech**
+- 📫 Reach me at **harshavardhann88@gmail.com**
 
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourinstagram)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your_email_here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourlinkedin)  [![Instagram (https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yourinstagram)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your_email_here)  
 
 ---
 
