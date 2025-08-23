@@ -1,9 +1,9 @@
-<h1 align="center">Hey 👋, I'm Harsha Vardhan</h1>
+<h1 align="center">Hey 👋, I'm Harshavardhan N</h1>
 
-<h3 align="center">A passionate Cybersecurity & Computer Science enthusiast from India</h3>
+<h3 align="center">A passionate Computer Science Engineering Student and Cyber Security enthusiastic</h3>
 
-- 🌱 I’m currently learning **Cybersecurity, Cloud Computing, DSA, Web Development**
-- 💻 I love building **automation tools, security scripts, and web applications**
+- 🌱 I’m currently learning **Web Development, DSA, Cybersecurity and Cloud Computing, , **
+- 💻 I love building **web applications, automation tools and security scripts **
 - 📫 Reach me at **your_email_here**
 - ⚡ Fun fact: **I enjoy exploring both low-level systems & modern web tech**
 
