@@ -1,4 +1,6 @@
-<h1 align="center">Hey, I'm Harshavardhan N</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c3e50,100:e74c3c&height=300&section=header&text=Harshavardhan%20N&fontSize=70&animation=fadeIn&fontAlignY=38" />
+</p>
 
 <h3 align="center">A passionate Computer Science Engineering Student and Cyber Security Enthusiast</h3>
 
