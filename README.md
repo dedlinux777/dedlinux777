@@ -4,7 +4,7 @@
 
 <h3 align="center">A passionate Computer Science Engineering Student and Cyber Security Enthusiast</h3>
 
--  I’m currently learning **Web Development, DSA, Cybersecurity, and Cloud Computing**
+-  Aspiring **Software Engineer | Backend Developer | Cybersecurity Enthusiast** | CSE @ UVCE
 -  I love building **web applications, automation tools, and security scripts**
 -  Reach me at **harshavardhann88@gmail.com**
 
