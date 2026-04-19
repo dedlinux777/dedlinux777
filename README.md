@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3d0066,100:00ffff&height=300&section=header&text=Harshavardhan%20N&fontSize=70&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=300&section=header&text=Harshavardhan%20N&fontSize=70&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <h3 align="center">A passionate Computer Science Engineering Student and Cyber Security Enthusiast</h3>
