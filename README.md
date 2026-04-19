@@ -46,7 +46,9 @@
 
 ##  GitHub Stats:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dedlinux777&layout=compact&theme=tokyonight&hide_border=false)  
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=dedlinux777&theme=tokyonight&hide_border=false)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=dedlinux777&theme=tokyonight&hide_border=false" />
+</p>
 
 ---
 
